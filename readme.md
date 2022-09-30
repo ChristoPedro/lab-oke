@@ -4,7 +4,8 @@ Objetivo do lab é cria um cluster de Kubernetes no OCI com node pool ARM e subi
 
 ## Lab
 
-1. [Criação do Cluster](#Criacao-Do-Cluster)
+1. [Criação do Cluster](#criação-do-cluster)
+2. [Acessando o Cluster via Cloud Shell](#acessando-o-cluster-via-cloud-shell)
 
 ## Criação do Cluster
 
@@ -36,7 +37,7 @@ Após preencher os campos basta clicar em Next e verá uma tela como a da imagem
 
 Espere alguns minutos para a conclusão da criação completa do cluster.
 
-2. Acessando o Cluster no Cloud Shell
+## Acessando o Cluster via Cloud Shell
 
 Navegue novamente pelo menu do OCI Developer Services -> kubernetes Cluster (OKE). Clique no cluster criado no passo anterior.
 
